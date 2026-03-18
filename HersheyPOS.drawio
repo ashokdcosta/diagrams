@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="ZlX4lkyDWwu2zDAybMTv-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" value="HERSHEY&amp;nbsp;&lt;div&gt;Enterprise POS&lt;/div&gt;" vertex="1">
+        <mxCell id="ZlX4lkyDWwu2zDAybMTv-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" value="HERSHEY&amp;nbsp;&lt;div&gt;Enterprise&amp;nbsp;&lt;/div&gt;" vertex="1">
           <mxGeometry height="120" width="120" x="460" y="310" as="geometry" />
         </mxCell>
         <mxCell id="ZlX4lkyDWwu2zDAybMTv-3" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
@@ -49,32 +49,32 @@
             <mxPoint x="340" y="250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZlX4lkyDWwu2zDAybMTv-14" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+        <mxCell id="ZlX4lkyDWwu2zDAybMTv-14" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <Array as="points">
-              <mxPoint x="460" y="369.5" />
+              <mxPoint x="460" y="368.5" />
             </Array>
-            <mxPoint x="420" y="369.5" as="sourcePoint" />
-            <mxPoint x="300" y="370" as="targetPoint" />
+            <mxPoint x="420" y="368.5" as="sourcePoint" />
+            <mxPoint x="320" y="369" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ZlX4lkyDWwu2zDAybMTv-15" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;" value="AMAZON" vertex="1">
           <mxGeometry height="60" width="120" x="469" y="541" as="geometry" />
         </mxCell>
-        <mxCell id="ZlX4lkyDWwu2zDAybMTv-16" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;exitX=0.047;exitY=0.828;exitDx=0;exitDy=0;exitPerimeter=0;" value="">
+        <mxCell id="ZlX4lkyDWwu2zDAybMTv-16" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;exitX=0.208;exitY=0.9;exitDx=0;exitDy=0;exitPerimeter=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="466.6400000000001" y="400.3599999999999" as="sourcePoint" />
-            <mxPoint x="321" y="471" as="targetPoint" />
+            <mxPoint x="481.96000000000004" y="416" as="sourcePoint" />
+            <mxPoint x="328" y="493.32" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZlX4lkyDWwu2zDAybMTv-17" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" value="PUBLIX" vertex="1">
+        <mxCell id="ZlX4lkyDWwu2zDAybMTv-17" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcd28;strokeColor=#d79b00;gradientColor=#ffa500;" value="CVS" vertex="1">
           <mxGeometry height="60" width="120" x="260" y="190" as="geometry" />
         </mxCell>
-        <mxCell id="ZlX4lkyDWwu2zDAybMTv-18" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" value="COSTCO" vertex="1">
-          <mxGeometry height="60" width="120" x="180" y="340" as="geometry" />
+        <mxCell id="ZlX4lkyDWwu2zDAybMTv-18" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" value="COSTCO" vertex="1">
+          <mxGeometry height="60" width="120" x="200" y="340" as="geometry" />
         </mxCell>
         <mxCell id="ZlX4lkyDWwu2zDAybMTv-19" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" value="OTHERS" vertex="1">
-          <mxGeometry height="60" width="120" x="200" y="450" as="geometry" />
+          <mxGeometry height="60" width="120" x="200" y="460" as="geometry" />
         </mxCell>
         <mxCell id="ZlX4lkyDWwu2zDAybMTv-29" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" value="" vertex="1">
           <mxGeometry height="410" width="120" x="880" y="110" as="geometry" />
