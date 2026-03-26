@@ -16,7 +16,7 @@
         <mxCell id="4JXiyOkKxy8k84PP9dOl-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Syndicated / External" vertex="1">
           <mxGeometry height="60" width="200" x="790" y="100" as="geometry" />
         </mxCell>
-        <mxCell id="4JXiyOkKxy8k84PP9dOl-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="Azure Data Platform&lt;br&gt;&lt;br&gt;• Data Lake (Bronze / Silver / Gold)&lt;br&gt;• Fabric/ Fabric Pipelines &amp;amp; Tables&lt;br&gt;• Fact Sales, Dim Product / Store&lt;br&gt;• Customer 360&lt;br&gt;• Persona &amp;amp; Brand Tables&lt;br&gt;• Forecast Views&lt;div&gt;Azure AI - ML (Endpoints)&amp;nbsp;&lt;/div&gt;" vertex="1">
+        <mxCell id="4JXiyOkKxy8k84PP9dOl-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="Azure Data Platform&lt;br&gt;&lt;br&gt;• Data Lake (Bronze / Silver / Gold)&lt;br&gt;• Fabric/ Fabric Pipelines &amp;amp; Tables&lt;br&gt;• Fact Sales, Dim Product / Store&lt;br&gt;• Customer 360&lt;div&gt;&lt;br&gt;&lt;div&gt;Azure AI - ML&amp;nbsp;&lt;br&gt;• Persona &amp;amp; Brand Tables&lt;br&gt;• Forecast Views&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="200" width="740" x="250" y="200" as="geometry" />
         </mxCell>
         <mxCell id="4JXiyOkKxy8k84PP9dOl-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=14;fontStyle=1;" value="Microsoft AI Foundry&lt;br&gt;(Agents &amp;amp; Workflows)&lt;br&gt;&lt;br&gt;• Persona Insight Agent&lt;br&gt;• Planning Copilot&lt;br&gt;• Forecasting Pipeline (Azure ML Endpoint)" vertex="1">
