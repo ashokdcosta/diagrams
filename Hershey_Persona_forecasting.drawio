@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="4JXiyOkKxy8k84PP9dOl-1" parent="1" style="text;html=1;align=center;verticalAlign=middle;fontSize=20;fontStyle=1;" value="Hershey Customer &amp; Brand Personas for Persona‑Aware Forecasting – Azure AI Foundry POC" vertex="1">
+        <mxCell id="4JXiyOkKxy8k84PP9dOl-1" parent="1" style="text;html=1;align=center;verticalAlign=middle;fontSize=20;fontStyle=1;" value="Hershey Customer &amp;amp; Brand Personas for Persona‑Aware Forecasting – Microsoft Foundry POC" vertex="1">
           <mxGeometry height="50" width="1200" x="200" y="20" as="geometry" />
         </mxCell>
         <mxCell id="4JXiyOkKxy8k84PP9dOl-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Retail POS / Loyalty" vertex="1">
