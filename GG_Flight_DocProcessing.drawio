@@ -172,10 +172,10 @@
         <mxCell id="8jsWLKUyjtAfWCy8RxJ0-43" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.lean_mapping.mrp_erp;whiteSpace=wrap;" value="SACS&lt;div&gt;ERP&lt;/div&gt;" vertex="1">
           <mxGeometry height="69" width="70" x="346" y="631" as="geometry" />
         </mxCell>
-        <mxCell id="8jsWLKUyjtAfWCy8RxJ0-45" edge="1" parent="1" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;entryX=0.01;entryY=0.614;entryDx=0;entryDy=0;entryPerimeter=0;" target="8jsWLKUyjtAfWCy8RxJ0-43" value="">
+        <mxCell id="8jsWLKUyjtAfWCy8RxJ0-45" edge="1" parent="1" source="8jsWLKUyjtAfWCy8RxJ0-24" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;entryX=0.01;entryY=0.614;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" target="8jsWLKUyjtAfWCy8RxJ0-43" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <Array as="points">
-              <mxPoint x="150" y="650" />
+              <mxPoint x="280" y="630" />
             </Array>
             <mxPoint x="140" y="560" as="sourcePoint" />
             <mxPoint x="190" y="510" as="targetPoint" />
@@ -216,6 +216,9 @@
           <mxGeometry relative="1" x="0.3673" y="-2" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="8jsWLKUyjtAfWCy8RxJ0-53" parent="1" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/iot/Function_Apps.svg;" value="" vertex="1">
+          <mxGeometry height="45" width="51" x="259" y="581.94" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
