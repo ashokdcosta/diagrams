@@ -8,49 +8,74 @@
           <mxGeometry height="48" width="50" x="40" y="700" as="geometry" />
         </mxCell>
         <mxCell id="lUtib3wu6koJZYuljqSG-5" parent="1" style="verticalLabelPosition=bottom;align=center;outlineConnect=0;dashed=0;html=1;verticalAlign=top;shape=mxgraph.pid.flow_sensors.venturi;" value="" vertex="1">
-          <mxGeometry height="40" width="43" x="37" y="76" as="geometry" />
+          <mxGeometry height="40" width="43" x="78" y="76" as="geometry" />
         </mxCell>
-        <mxCell id="lUtib3wu6koJZYuljqSG-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="CAE Vendor Portal&amp;nbsp;" vertex="1">
-          <mxGeometry height="42" width="69" x="20" y="133" as="geometry" />
+        <mxCell id="lUtib3wu6koJZYuljqSG-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="CAE Vendor Portal&amp;nbsp;" vertex="1">
+          <mxGeometry height="42" width="69" x="61" y="147" as="geometry" />
         </mxCell>
         <mxCell id="lUtib3wu6koJZYuljqSG-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Pipeline1- Browser Automation&amp;nbsp;" vertex="1">
           <mxGeometry height="30" width="190" y="17" as="geometry" />
         </mxCell>
         <mxCell id="lUtib3wu6koJZYuljqSG-8" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" target="lUtib3wu6koJZYuljqSG-11" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="80" y="100" as="sourcePoint" />
-            <mxPoint x="160" y="100" as="targetPoint" />
+            <mxPoint x="121" y="100" as="sourcePoint" />
+            <mxPoint x="201" y="100" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="lUtib3wu6koJZYuljqSG-11" parent="1" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=light-dark(#00050a, #32a0ff);shadow=0;dashed=0;shape=mxgraph.ios7.icons.documents;" value="" vertex="1">
-          <mxGeometry height="35" width="31.25" x="148.75" y="82" as="geometry" />
+          <mxGeometry height="35" width="31.25" x="189.75" y="82" as="geometry" />
         </mxCell>
         <mxCell id="lUtib3wu6koJZYuljqSG-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#d79b00;fillColor=#ffe6cc;align=center;verticalAlign=middle;rounded=0;" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;Recipe - PDF Docs per flight code&amp;nbsp;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;#(200)&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="47" width="110" x="108" y="133" as="geometry" />
+          <mxGeometry height="47" width="110" x="149" y="147" as="geometry" />
         </mxCell>
         <mxCell id="lUtib3wu6koJZYuljqSG-13" parent="1" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Service_Bus.svg;" value="" vertex="1">
-          <mxGeometry height="42" width="49" x="375" y="76" as="geometry" />
+          <mxGeometry height="42" width="49" x="416" y="76" as="geometry" />
         </mxCell>
         <mxCell id="lUtib3wu6koJZYuljqSG-14" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="180" y="97" as="sourcePoint" />
-            <mxPoint x="249" y="99" as="targetPoint" />
+            <mxPoint x="221" y="97" as="sourcePoint" />
+            <mxPoint x="290" y="99" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="lUtib3wu6koJZYuljqSG-16" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Service Bus&lt;div&gt;&amp;nbsp;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="30" width="80" x="359" y="138" as="geometry" />
+          <mxGeometry height="30" width="80" x="400" y="152" as="geometry" />
         </mxCell>
         <mxCell id="8jsWLKUyjtAfWCy8RxJ0-3" parent="1" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.storage_blob;" value="" vertex="1">
-          <mxGeometry height="45" width="50" x="246" y="77" as="geometry" />
+          <mxGeometry height="45" width="50" x="287" y="77" as="geometry" />
         </mxCell>
-        <mxCell id="8jsWLKUyjtAfWCy8RxJ0-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div&gt;Blob Storage&lt;/div&gt;&lt;div&gt;airline/code&lt;/div&gt;" vertex="1">
-          <mxGeometry height="41" width="90" x="238" y="135" as="geometry" />
+        <mxCell id="8jsWLKUyjtAfWCy8RxJ0-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div&gt;Blob Storage&lt;/div&gt;&lt;div&gt;../airline/code/doc&lt;/div&gt;" vertex="1">
+          <mxGeometry height="41" width="102" x="275" y="149" as="geometry" />
         </mxCell>
         <mxCell id="8jsWLKUyjtAfWCy8RxJ0-6" edge="1" parent="1" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;" value="">
           <mxGeometry relative="1" width="80" as="geometry">
             <Array as="points" />
-            <mxPoint x="296" y="99" as="sourcePoint" />
-            <mxPoint x="376" y="99" as="targetPoint" />
+            <mxPoint x="337" y="99" as="sourcePoint" />
+            <mxPoint x="417" y="99" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8jsWLKUyjtAfWCy8RxJ0-8" edge="1" parent="1" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;exitX=0.98;exitY=0.571;exitDx=0;exitDy=0;exitPerimeter=0;" value="">
+          <mxGeometry relative="1" width="80" as="geometry">
+            <Array as="points" />
+            <mxPoint x="462.02" y="99.98199999999997" as="sourcePoint" />
+            <mxPoint x="555" y="101" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8jsWLKUyjtAfWCy8RxJ0-9" parent="1" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/iot/Function_Apps.svg;" value="" vertex="1">
+          <mxGeometry height="60" width="68" x="553" y="73" as="geometry" />
+        </mxCell>
+        <mxCell id="8jsWLKUyjtAfWCy8RxJ0-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Event Function/API" vertex="1">
+          <mxGeometry height="30" width="80" x="539" y="156" as="geometry" />
+        </mxCell>
+        <mxCell id="8jsWLKUyjtAfWCy8RxJ0-11" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Pipeline2- Document Procesing" vertex="1">
+          <mxGeometry height="30" width="190" x="10" y="318" as="geometry" />
+        </mxCell>
+        <mxCell id="8jsWLKUyjtAfWCy8RxJ0-12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Merge Multiple PDFs&amp;nbsp;&lt;div&gt;into one final PDF per recipe code&lt;/div&gt;" vertex="1">
+          <mxGeometry height="54" width="120" x="684" y="76" as="geometry" />
+        </mxCell>
+        <mxCell id="8jsWLKUyjtAfWCy8RxJ0-14" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="617" y="103" as="sourcePoint" />
+            <mxPoint x="686" y="103" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
