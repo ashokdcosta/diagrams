@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="NQ7efiAXxfJ7lOqJZgHC">
-    <mxGraphModel dx="1022" dy="724" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="1700" math="0" shadow="0">
+    <mxGraphModel dx="1261" dy="724" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="1700" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -161,24 +161,31 @@
         <mxCell id="J6W4oDZBmggJFE8A11RO-50" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Instructions &amp;amp; marketing brief template&amp;nbsp;" vertex="1">
           <mxGeometry height="30" width="93" x="167" y="889" as="geometry" />
         </mxCell>
-        <mxCell id="J6W4oDZBmggJFE8A11RO-51" parent="1" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;fillColor=#FF6A00;strokeColor=none;shape=mxgraph.alibaba_cloud.webplus_web_app_service;" value="" vertex="1">
-          <mxGeometry height="54.900000000000006" width="54.900000000000006" x="760" y="713" as="geometry" />
-        </mxCell>
-        <mxCell id="J6W4oDZBmggJFE8A11RO-55" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Webapp" vertex="1">
-          <mxGeometry height="30" width="60" x="814.9" y="709.13" as="geometry" />
-        </mxCell>
-        <mxCell id="J6W4oDZBmggJFE8A11RO-56" edge="1" parent="1" source="J6W4oDZBmggJFE8A11RO-51" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;exitX=0.583;exitY=1.038;exitDx=0;exitDy=0;exitPerimeter=0;" value="">
-          <mxGeometry relative="1" width="100" as="geometry">
-            <Array as="points">
-              <mxPoint x="787" y="770" />
-              <mxPoint x="787" y="846" />
-            </Array>
-            <mxPoint x="910" y="676" as="sourcePoint" />
-            <mxPoint x="675" y="845.63" as="targetPoint" />
+        <mxCell id="J6W4oDZBmggJFE8A11RO-64" edge="1" parent="1" source="J6W4oDZBmggJFE8A11RO-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="J6W4oDZBmggJFE8A11RO-43" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="780" y="780" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="J6W4oDZBmggJFE8A11RO-62" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="212" width="124" x="810" y="678" as="geometry" />
+        </mxCell>
+        <mxCell id="J6W4oDZBmggJFE8A11RO-51" parent="1" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;fillColor=#FF6A00;strokeColor=none;shape=mxgraph.alibaba_cloud.webplus_web_app_service;" value="" vertex="1">
+          <mxGeometry height="37" width="37" x="826" y="715" as="geometry" />
+        </mxCell>
+        <mxCell id="J6W4oDZBmggJFE8A11RO-55" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Webapp" vertex="1">
+          <mxGeometry height="21.13" width="60" x="871.9" y="719" as="geometry" />
+        </mxCell>
         <mxCell id="J6W4oDZBmggJFE8A11RO-57" parent="1" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/integration/Logic_Apps.svg;" value="" vertex="1">
-          <mxGeometry height="52" width="67" x="803" y="832" as="geometry" />
+          <mxGeometry height="29" width="37.36" x="825.9" y="822" as="geometry" />
+        </mxCell>
+        <mxCell id="J6W4oDZBmggJFE8A11RO-59" parent="1" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#DF8C42;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam2.microsoft_teams;" value="" vertex="1">
+          <mxGeometry height="34" width="34" x="827.9" y="767.9" as="geometry" />
+        </mxCell>
+        <mxCell id="J6W4oDZBmggJFE8A11RO-60" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Teams" vertex="1">
+          <mxGeometry height="21.13" width="60" x="869" y="771.9" as="geometry" />
+        </mxCell>
+        <mxCell id="J6W4oDZBmggJFE8A11RO-61" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Logic App" vertex="1">
+          <mxGeometry height="37.06" width="60" x="873" y="821" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
