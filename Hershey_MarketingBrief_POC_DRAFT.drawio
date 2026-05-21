@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="NQ7efiAXxfJ7lOqJZgHC">
-    <mxGraphModel dx="1261" dy="724" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="1700" math="0" shadow="0">
+    <mxGraphModel dx="1681" dy="965" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="1700" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -73,7 +73,7 @@
         <mxCell id="J6W4oDZBmggJFE8A11RO-20" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" value="2" vertex="1">
           <mxGeometry height="50" width="50" x="10" y="300" as="geometry" />
         </mxCell>
-        <mxCell id="J6W4oDZBmggJFE8A11RO-21" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#d79b00;fillColor=#ffe6cc;align=center;verticalAlign=middle;rounded=0;" value="Sprinklr to Azure Storage Integration&amp;nbsp;" vertex="1">
+        <mxCell id="J6W4oDZBmggJFE8A11RO-21" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#d79b00;fillColor=#ffe6cc;align=center;verticalAlign=middle;rounded=0;" value="Sources to Azure Storage Integration&amp;nbsp;" vertex="1">
           <mxGeometry height="30" width="191" x="79" y="24" as="geometry" />
         </mxCell>
         <mxCell id="J6W4oDZBmggJFE8A11RO-23" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;rounded=0;" value="Integrate internal sales / Power BI data in Databricks with Social insights&amp;nbsp;" vertex="1">
@@ -131,7 +131,7 @@
         <mxCell id="J6W4oDZBmggJFE8A11RO-41" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" value="3" vertex="1">
           <mxGeometry height="50" width="50" x="8" y="650" as="geometry" />
         </mxCell>
-        <mxCell id="J6W4oDZBmggJFE8A11RO-42" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#d6b656;fillColor=#fff2cc;align=center;verticalAlign=middle;rounded=0;" value="Expose Azure Databricks Data to Foundry" vertex="1">
+        <mxCell id="J6W4oDZBmggJFE8A11RO-42" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#d6b656;fillColor=#fff2cc;align=center;verticalAlign=middle;rounded=0;" value="Integrate Azure Databricks Data to Foundry" vertex="1">
           <mxGeometry height="30" width="191" x="77" y="662" as="geometry" />
         </mxCell>
         <mxCell id="J6W4oDZBmggJFE8A11RO-43" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
@@ -186,6 +186,36 @@
         </mxCell>
         <mxCell id="J6W4oDZBmggJFE8A11RO-61" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Logic App" vertex="1">
           <mxGeometry height="37.06" width="60" x="873" y="821" as="geometry" />
+        </mxCell>
+        <mxCell id="Dju3FM6Q1c_0_F0n3ljT-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Numerator&amp;nbsp;" vertex="1">
+          <mxGeometry height="80" width="120" x="230" y="1120" as="geometry" />
+        </mxCell>
+        <mxCell id="Dju3FM6Q1c_0_F0n3ljT-2" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Kitty" vertex="1">
+          <mxGeometry height="80" width="120" x="440" y="1120" as="geometry" />
+        </mxCell>
+        <mxCell id="Dju3FM6Q1c_0_F0n3ljT-3" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Sprinkler" vertex="1">
+          <mxGeometry height="80" width="120" x="640" y="1120" as="geometry" />
+        </mxCell>
+        <mxCell id="Dju3FM6Q1c_0_F0n3ljT-4" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="Agent&amp;nbsp;" vertex="1">
+          <mxGeometry height="100" width="100" x="330" y="1310" as="geometry" />
+        </mxCell>
+        <mxCell id="Dju3FM6Q1c_0_F0n3ljT-6" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="Foundry&amp;nbsp;&lt;div&gt;LLM&lt;/div&gt;&lt;div&gt;KNOWLEDGE BASE&amp;nbsp;&lt;/div&gt;&lt;div&gt;(AZURE AI SEARCH)&amp;nbsp;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="110" width="110" x="559" y="1305" as="geometry" />
+        </mxCell>
+        <mxCell id="Dju3FM6Q1c_0_F0n3ljT-7" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Sharepoint&amp;nbsp;" vertex="1">
+          <mxGeometry height="80" width="120" x="75" y="1120" as="geometry" />
+        </mxCell>
+        <mxCell id="Dju3FM6Q1c_0_F0n3ljT-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="POC -" vertex="1">
+          <mxGeometry height="30" width="60" x="4" y="1049" as="geometry" />
+        </mxCell>
+        <mxCell id="Dju3FM6Q1c_0_F0n3ljT-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Numerator&amp;nbsp;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Kitty&lt;/span&gt;&lt;/div&gt;&lt;div&gt;Sprinkler&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="21" y="87" as="geometry" />
+        </mxCell>
+        <mxCell id="Dju3FM6Q1c_0_F0n3ljT-11" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint y="1000" as="sourcePoint" />
+            <mxPoint x="1080" y="1000" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
