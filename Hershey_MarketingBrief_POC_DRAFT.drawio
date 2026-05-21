@@ -71,7 +71,7 @@
           <mxGeometry height="40" width="40" x="20" y="20" as="geometry" />
         </mxCell>
         <mxCell id="J6W4oDZBmggJFE8A11RO-20" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" value="2" vertex="1">
-          <mxGeometry height="50" width="50" x="10" y="300" as="geometry" />
+          <mxGeometry height="50" width="50" x="15" y="300" as="geometry" />
         </mxCell>
         <mxCell id="J6W4oDZBmggJFE8A11RO-21" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#d79b00;fillColor=#ffe6cc;align=center;verticalAlign=middle;rounded=0;" value="Sources to Azure Storage Integration&amp;nbsp;" vertex="1">
           <mxGeometry height="30" width="191" x="79" y="24" as="geometry" />
@@ -129,7 +129,7 @@
           <mxGeometry height="70" width="340" x="480" y="490" as="geometry" />
         </mxCell>
         <mxCell id="J6W4oDZBmggJFE8A11RO-41" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" value="3" vertex="1">
-          <mxGeometry height="50" width="50" x="8" y="650" as="geometry" />
+          <mxGeometry height="50" width="50" x="15" y="650" as="geometry" />
         </mxCell>
         <mxCell id="J6W4oDZBmggJFE8A11RO-42" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#d6b656;fillColor=#fff2cc;align=center;verticalAlign=middle;rounded=0;" value="Integrate Azure Databricks Data to Foundry build agent&amp;nbsp;" vertex="1">
           <mxGeometry height="30" width="191" x="77" y="662" as="geometry" />
@@ -144,9 +144,9 @@
           <mxGeometry height="43" width="43" x="387" y="739.13" as="geometry" />
         </mxCell>
         <mxCell id="J6W4oDZBmggJFE8A11RO-46" parent="1" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4495D1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.2d.agent;pointerEvents=1;" value="" vertex="1">
-          <mxGeometry height="115" width="103" x="307" y="1280" as="geometry" />
+          <mxGeometry height="115" width="103" x="385" y="1280" as="geometry" />
         </mxCell>
-        <mxCell id="J6W4oDZBmggJFE8A11RO-47" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Brand Marketing&amp;nbsp; Social Agent&amp;nbsp;" vertex="1">
+        <mxCell id="J6W4oDZBmggJFE8A11RO-47" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Brand Marketing&amp;nbsp; Brief Agent&amp;nbsp;" vertex="1">
           <mxGeometry height="40" width="110" x="179" y="816.5" as="geometry" />
         </mxCell>
         <mxCell id="J6W4oDZBmggJFE8A11RO-48" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;rounded=0;dashed=1;" value="&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;get brand kpis&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;br&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;get brand social themes&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Design marketing brief prompt &amp;amp; structure&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" vertex="1">
@@ -188,19 +188,19 @@
           <mxGeometry height="37.06" width="60" x="873" y="821" as="geometry" />
         </mxCell>
         <mxCell id="Dju3FM6Q1c_0_F0n3ljT-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Numerator&amp;nbsp;" vertex="1">
-          <mxGeometry height="80" width="120" x="230" y="1120" as="geometry" />
+          <mxGeometry height="80" width="120" x="308" y="1120" as="geometry" />
         </mxCell>
         <mxCell id="Dju3FM6Q1c_0_F0n3ljT-2" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Kitty" vertex="1">
-          <mxGeometry height="80" width="120" x="440" y="1120" as="geometry" />
+          <mxGeometry height="80" width="120" x="518" y="1120" as="geometry" />
         </mxCell>
         <mxCell id="Dju3FM6Q1c_0_F0n3ljT-3" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Sprinkler" vertex="1">
-          <mxGeometry height="80" width="120" x="640" y="1120" as="geometry" />
+          <mxGeometry height="80" width="120" x="718" y="1120" as="geometry" />
         </mxCell>
         <mxCell id="Dju3FM6Q1c_0_F0n3ljT-6" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="Foundry&amp;nbsp;&lt;div&gt;LLM&lt;/div&gt;&lt;div&gt;KNOWLEDGE BASE&amp;nbsp;&lt;/div&gt;&lt;div&gt;(AZURE AI SEARCH)&amp;nbsp;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="110" width="110" x="559" y="1305" as="geometry" />
+          <mxGeometry height="110" width="110" x="560" y="1300" as="geometry" />
         </mxCell>
         <mxCell id="Dju3FM6Q1c_0_F0n3ljT-7" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Sharepoint&amp;nbsp;" vertex="1">
-          <mxGeometry height="80" width="120" x="75" y="1120" as="geometry" />
+          <mxGeometry height="80" width="120" x="153" y="1120" as="geometry" />
         </mxCell>
         <mxCell id="Dju3FM6Q1c_0_F0n3ljT-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Knowledge Sources Agent&amp;nbsp;" vertex="1">
           <mxGeometry height="39" width="96" x="4" y="1040" as="geometry" />
@@ -216,26 +216,26 @@
         </mxCell>
         <mxCell id="Dju3FM6Q1c_0_F0n3ljT-12" edge="1" parent="1" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=-0.039;exitY=0.343;exitDx=0;exitDy=0;exitPerimeter=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="297.10000000000014" y="1339.2999999999997" as="sourcePoint" />
-            <mxPoint x="140" y="1200" as="targetPoint" />
+            <mxPoint x="375.10000000000014" y="1339.2999999999997" as="sourcePoint" />
+            <mxPoint x="218" y="1200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Dju3FM6Q1c_0_F0n3ljT-15" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" target="J6W4oDZBmggJFE8A11RO-46" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="301" y="1200" as="sourcePoint" />
-            <mxPoint x="351" y="1150" as="targetPoint" />
+            <mxPoint x="379" y="1200" as="sourcePoint" />
+            <mxPoint x="429" y="1150" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Dju3FM6Q1c_0_F0n3ljT-16" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;exitX=0.347;exitY=1.026;exitDx=0;exitDy=0;exitPerimeter=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="476.6399999999999" y="1198.08" as="sourcePoint" />
-            <mxPoint x="390.355659469124" y="1296" as="targetPoint" />
+            <mxPoint x="554.6399999999999" y="1198.08" as="sourcePoint" />
+            <mxPoint x="468.355659469124" y="1296" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Dju3FM6Q1c_0_F0n3ljT-17" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;exitX=0.347;exitY=1.026;exitDx=0;exitDy=0;exitPerimeter=0;" target="J6W4oDZBmggJFE8A11RO-46" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="648" y="1183" as="sourcePoint" />
-            <mxPoint x="561" y="1281" as="targetPoint" />
+            <mxPoint x="726" y="1183" as="sourcePoint" />
+            <mxPoint x="639" y="1281" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Dju3FM6Q1c_0_F0n3ljT-24" parent="1" style="swimlane;startSize=0;" value="" vertex="1">
@@ -246,6 +246,15 @@
         </mxCell>
         <mxCell id="Dju3FM6Q1c_0_F0n3ljT-26" parent="Dju3FM6Q1c_0_F0n3ljT-24" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4495D1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.2d.agent;pointerEvents=1;" value="" vertex="1">
           <mxGeometry height="97" width="103" x="310" y="792" as="geometry" />
+        </mxCell>
+        <mxCell id="Dju3FM6Q1c_0_F0n3ljT-27" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Brand Marketing&amp;nbsp; Brief Agent&amp;nbsp;" vertex="1">
+          <mxGeometry height="40" width="110" x="378" y="1420" as="geometry" />
+        </mxCell>
+        <mxCell id="Dju3FM6Q1c_0_F0n3ljT-28" parent="1" style="swimlane;startSize=0;" value="" vertex="1">
+          <mxGeometry height="470" width="1021" x="10" y="1030" as="geometry" />
+        </mxCell>
+        <mxCell id="Dju3FM6Q1c_0_F0n3ljT-29" parent="Dju3FM6Q1c_0_F0n3ljT-28" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.azure_subscription;" value="" vertex="1">
+          <mxGeometry height="50" width="70" x="814" y="17" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
