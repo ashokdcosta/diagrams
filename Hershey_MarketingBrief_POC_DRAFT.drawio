@@ -202,8 +202,8 @@
         <mxCell id="Dju3FM6Q1c_0_F0n3ljT-7" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Sharepoint&amp;nbsp;" vertex="1">
           <mxGeometry height="80" width="120" x="75" y="1120" as="geometry" />
         </mxCell>
-        <mxCell id="Dju3FM6Q1c_0_F0n3ljT-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="POC -" vertex="1">
-          <mxGeometry height="30" width="60" x="4" y="1049" as="geometry" />
+        <mxCell id="Dju3FM6Q1c_0_F0n3ljT-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Knowledge Sources" vertex="1">
+          <mxGeometry height="30" width="96" x="4" y="1049" as="geometry" />
         </mxCell>
         <mxCell id="Dju3FM6Q1c_0_F0n3ljT-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Numerator&amp;nbsp;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Kitty&lt;/span&gt;&lt;/div&gt;&lt;div&gt;Sprinkler&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="21" y="87" as="geometry" />
