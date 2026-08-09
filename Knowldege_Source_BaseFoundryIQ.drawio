@@ -62,8 +62,16 @@
             <mxPoint x="408.36" y="370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="NScxbAOBMl3ZBavtWo1J-0" edge="1" parent="NwjVfNys6u0BEcbX4rFh-1" source="kekEOTX7U7oFcebOYT3s-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" target="KBdz7AlmhLJHS-RoMEmU-7" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="420" y="480" />
+              <mxPoint x="420" y="480" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="kekEOTX7U7oFcebOYT3s-6" parent="NwjVfNys6u0BEcbX4rFh-1" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4495D1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.2d.agent;pointerEvents=1;" value="" vertex="1">
-          <mxGeometry height="60" width="60" x="390" y="529" as="geometry" />
+          <mxGeometry height="60" width="60" x="390" y="530" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
