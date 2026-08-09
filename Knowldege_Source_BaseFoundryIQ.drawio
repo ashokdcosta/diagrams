@@ -1,0 +1,79 @@
+<mxfile host="app.diagrams.net" agent="Copilot CLI" pages="2">
+  <diagram id="foundry-sharepoint-arch" name="Foundry Agent + SharePoint Architecture">
+    <mxGraphModel dx="1261" dy="724" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1000" pageHeight="1400" math="0" shadow="0">
+      <root>
+        <mxCell id="NwjVfNys6u0BEcbX4rFh-0" />
+        <mxCell id="NwjVfNys6u0BEcbX4rFh-1" parent="NwjVfNys6u0BEcbX4rFh-0" />
+        <mxCell id="KBdz7AlmhLJHS-RoMEmU-9" parent="NwjVfNys6u0BEcbX4rFh-1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="110" width="740" x="3" y="143" as="geometry" />
+        </mxCell>
+        <mxCell id="KBdz7AlmhLJHS-RoMEmU-0" parent="NwjVfNys6u0BEcbX4rFh-1" style="rounded=1;whiteSpace=wrap;html=1;" value="Azure Blob Storage" vertex="1">
+          <mxGeometry height="60" width="120" x="33" y="168" as="geometry" />
+        </mxCell>
+        <mxCell id="KBdz7AlmhLJHS-RoMEmU-1" parent="NwjVfNys6u0BEcbX4rFh-1" style="rounded=1;whiteSpace=wrap;html=1;" value="Microsoft OneLake" vertex="1">
+          <mxGeometry height="60" width="120" x="232" y="168" as="geometry" />
+        </mxCell>
+        <mxCell id="KBdz7AlmhLJHS-RoMEmU-2" parent="NwjVfNys6u0BEcbX4rFh-1" style="rounded=1;whiteSpace=wrap;html=1;" value="Sharepoint Indexed" vertex="1">
+          <mxGeometry height="60" width="120" x="413" y="168" as="geometry" />
+        </mxCell>
+        <mxCell id="KBdz7AlmhLJHS-RoMEmU-3" parent="NwjVfNys6u0BEcbX4rFh-1" style="rounded=1;whiteSpace=wrap;html=1;" value="Azure AI Search Index&lt;div&gt;( Wrap Existing Search Index)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="593" y="168" as="geometry" />
+        </mxCell>
+        <mxCell id="kekEOTX7U7oFcebOYT3s-7" parent="NwjVfNys6u0BEcbX4rFh-1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="270" width="470" x="200" y="375" as="geometry" />
+        </mxCell>
+        <mxCell id="KBdz7AlmhLJHS-RoMEmU-7" parent="NwjVfNys6u0BEcbX4rFh-1" style="rounded=0;whiteSpace=wrap;html=1;" value="FOUNDRY IQ&amp;nbsp;&lt;div&gt;(Knowledge Base)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="190" x="343" y="389" as="geometry" />
+        </mxCell>
+        <mxCell id="KBdz7AlmhLJHS-RoMEmU-19" parent="NwjVfNys6u0BEcbX4rFh-1" style="text;html=1;whiteSpace=wrap;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;rounded=0;strokeWidth=1;" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Indexed Knowledge sources&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 9px; background-color: light-dark(rgb(255, 255, 255), rgb(18, 18, 18)); color: light-dark(rgba(0, 0, 0, 0.87), rgba(237, 237, 237, 0.87)); font-family: system-ui, -apple-system, blinkmacsystemfont, &amp;quot;Segoe UI&amp;quot;, helvetica, arial, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;;&quot;&gt;Data is copied into Foundry IQ&#39;s search infrastructure. The platform automates chunking, vectorization, and enrichment, then keeps the index fresh via scheduled indexers.&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="90" width="240" x="3" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="kekEOTX7U7oFcebOYT3s-5" edge="1" parent="NwjVfNys6u0BEcbX4rFh-1" source="KBdz7AlmhLJHS-RoMEmU-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.595;entryY=-0.023;entryDx=0;entryDy=0;entryPerimeter=0;" target="kekEOTX7U7oFcebOYT3s-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1005" y="320" />
+              <mxPoint x="479.7" y="320" />
+            </Array>
+            <mxPoint x="480" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KBdz7AlmhLJHS-RoMEmU-20" parent="NwjVfNys6u0BEcbX4rFh-1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="110" width="430" x="790" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="KBdz7AlmhLJHS-RoMEmU-21" parent="NwjVfNys6u0BEcbX4rFh-1" style="rounded=1;whiteSpace=wrap;html=1;" value="Web&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="120" x="816" y="166" as="geometry" />
+        </mxCell>
+        <mxCell id="KBdz7AlmhLJHS-RoMEmU-22" parent="NwjVfNys6u0BEcbX4rFh-1" style="rounded=1;whiteSpace=wrap;html=1;" value="Sharepoint Remote" vertex="1">
+          <mxGeometry height="60" width="120" x="957" y="167" as="geometry" />
+        </mxCell>
+        <mxCell id="KBdz7AlmhLJHS-RoMEmU-23" parent="NwjVfNys6u0BEcbX4rFh-1" style="rounded=1;whiteSpace=wrap;html=1;" value="MCP Servers" vertex="1">
+          <mxGeometry height="60" width="120" x="1092" y="166" as="geometry" />
+        </mxCell>
+        <mxCell id="KBdz7AlmhLJHS-RoMEmU-24" parent="NwjVfNys6u0BEcbX4rFh-1" style="text;html=1;whiteSpace=wrap;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;rounded=0;strokeWidth=1;" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;&lt;strong style=&quot;font-weight: bold; color: rgba(0, 0, 0, 0.87); font-family: system-ui, -apple-system, blinkmacsystemfont, &amp;quot;Segoe UI&amp;quot;, helvetica, arial, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;; background-color: rgb(255, 255, 255);&quot;&gt;&lt;br&gt;&lt;/strong&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;&lt;strong style=&quot;font-weight: bold; color: rgba(0, 0, 0, 0.87); font-family: system-ui, -apple-system, blinkmacsystemfont, &amp;quot;Segoe UI&amp;quot;, helvetica, arial, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;; background-color: rgb(255, 255, 255);&quot;&gt;Remote sources&lt;/strong&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 0.87); font-family: system-ui, -apple-system, blinkmacsystemfont, &amp;quot;Segoe UI&amp;quot;, helvetica, arial, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;; background-color: rgb(255, 255, 255);&quot;&gt; — Data stays where it lives. Foundry IQ queries the system at runtime and merges results alongside indexed content.&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="240" x="802" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="kekEOTX7U7oFcebOYT3s-1" edge="1" parent="NwjVfNys6u0BEcbX4rFh-1" source="KBdz7AlmhLJHS-RoMEmU-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="290" y="253" />
+              <mxPoint x="290" y="321.5" />
+              <mxPoint x="408.4" y="321.5" />
+            </Array>
+            <mxPoint x="408.36" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kekEOTX7U7oFcebOYT3s-6" parent="NwjVfNys6u0BEcbX4rFh-1" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4495D1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.2d.agent;pointerEvents=1;" value="" vertex="1">
+          <mxGeometry height="60" width="60" x="390" y="529" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="IHUqoZyQskR5lv7VCIeW" name="Page-2">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="1100" pageHeight="1700" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
