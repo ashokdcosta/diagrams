@@ -20,7 +20,7 @@
           <mxGeometry height="60" width="120" x="593" y="168" as="geometry" />
         </mxCell>
         <mxCell id="kekEOTX7U7oFcebOYT3s-7" parent="NwjVfNys6u0BEcbX4rFh-1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="270" width="470" x="200" y="375" as="geometry" />
+          <mxGeometry height="135" width="350" x="250" y="375" as="geometry" />
         </mxCell>
         <mxCell id="KBdz7AlmhLJHS-RoMEmU-7" parent="NwjVfNys6u0BEcbX4rFh-1" style="rounded=0;whiteSpace=wrap;html=1;" value="FOUNDRY IQ&amp;nbsp;&lt;div&gt;(Knowledge Base)&lt;/div&gt;" vertex="1">
           <mxGeometry height="80" width="190" x="343" y="389" as="geometry" />
@@ -28,13 +28,13 @@
         <mxCell id="KBdz7AlmhLJHS-RoMEmU-19" parent="NwjVfNys6u0BEcbX4rFh-1" style="text;html=1;whiteSpace=wrap;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;rounded=0;strokeWidth=1;" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Indexed Knowledge sources&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 9px; background-color: light-dark(rgb(255, 255, 255), rgb(18, 18, 18)); color: light-dark(rgba(0, 0, 0, 0.87), rgba(237, 237, 237, 0.87)); font-family: system-ui, -apple-system, blinkmacsystemfont, &amp;quot;Segoe UI&amp;quot;, helvetica, arial, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;;&quot;&gt;Data is copied into Foundry IQ&#39;s search infrastructure. The platform automates chunking, vectorization, and enrichment, then keeps the index fresh via scheduled indexers.&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="90" width="240" x="3" y="20" as="geometry" />
         </mxCell>
-        <mxCell id="kekEOTX7U7oFcebOYT3s-5" edge="1" parent="NwjVfNys6u0BEcbX4rFh-1" source="KBdz7AlmhLJHS-RoMEmU-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.595;entryY=-0.023;entryDx=0;entryDy=0;entryPerimeter=0;" target="kekEOTX7U7oFcebOYT3s-7">
+        <mxCell id="kekEOTX7U7oFcebOYT3s-5" edge="1" parent="NwjVfNys6u0BEcbX4rFh-1" source="KBdz7AlmhLJHS-RoMEmU-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1005" y="320" />
-              <mxPoint x="479.7" y="320" />
+              <mxPoint x="1005" y="290" />
+              <mxPoint x="458.3" y="290" />
             </Array>
-            <mxPoint x="480" y="320" as="targetPoint" />
+            <mxPoint x="458.25" y="370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="KBdz7AlmhLJHS-RoMEmU-20" parent="NwjVfNys6u0BEcbX4rFh-1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
@@ -62,16 +62,33 @@
             <mxPoint x="408.36" y="370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NScxbAOBMl3ZBavtWo1J-0" edge="1" parent="NwjVfNys6u0BEcbX4rFh-1" source="kekEOTX7U7oFcebOYT3s-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" target="KBdz7AlmhLJHS-RoMEmU-7" value="">
+        <mxCell id="NScxbAOBMl3ZBavtWo1J-0" edge="1" parent="NwjVfNys6u0BEcbX4rFh-1" source="kekEOTX7U7oFcebOYT3s-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;entryX=0.098;entryY=0.979;entryDx=0;entryDy=0;entryPerimeter=0;" target="KBdz7AlmhLJHS-RoMEmU-7" value="">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="420" y="480" />
-              <mxPoint x="420" y="480" />
+              <mxPoint x="330" y="545" />
+              <mxPoint x="360" y="545" />
+              <mxPoint x="360" y="480" />
+              <mxPoint x="361.6" y="480" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="kekEOTX7U7oFcebOYT3s-6" parent="NwjVfNys6u0BEcbX4rFh-1" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4495D1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.2d.agent;pointerEvents=1;" value="" vertex="1">
-          <mxGeometry height="60" width="60" x="390" y="530" as="geometry" />
+          <mxGeometry height="60" width="60" x="300" y="580" as="geometry" />
+        </mxCell>
+        <mxCell id="NScxbAOBMl3ZBavtWo1J-3" parent="NwjVfNys6u0BEcbX4rFh-1" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4495D1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.2d.agent;pointerEvents=1;" value="" vertex="1">
+          <mxGeometry height="60" width="60" x="431" y="580" as="geometry" />
+        </mxCell>
+        <mxCell id="NScxbAOBMl3ZBavtWo1J-4" edge="1" parent="NwjVfNys6u0BEcbX4rFh-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;entryX=0.098;entryY=0.979;entryDx=0;entryDy=0;entryPerimeter=0;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="464" y="547" />
+              <mxPoint x="494" y="547" />
+              <mxPoint x="494" y="482" />
+              <mxPoint x="495.5999999999999" y="482" />
+            </Array>
+            <mxPoint x="464" y="582" as="sourcePoint" />
+            <mxPoint x="496" y="469" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
